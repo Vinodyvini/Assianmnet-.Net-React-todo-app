@@ -21,9 +21,28 @@ run http or by ctrl+f5 see below vedio then go to swagger url:- http://localhost
 
 6. Now test getdo list funtionality in backend api with the help of swagger as shown in below vedio
 
-![backend_GetList](https://github.com/user-attachments/assets/802d727f-bd3d-458b-a208-f48ac42b6f02)
+![backend_GetList](https://github.com/user-attachments/assets/7f6e5ace-d6cc-40dd-bd2b-3d4e5bbf4a90)
 
 7. Test the backend post api for creating the to do list in swagger as below vedio
 
 ![backend_postapi](https://github.com/user-attachments/assets/39d8657c-4c29-46ab-99f8-a7fd0d52bbbf)
+
+8. Test get item by id in swagger backend api as below in vedio
+
+![backend_getitembyid](https://github.com/user-attachments/assets/5fdae1a7-af59-457e-89cc-ac1694de1138)
+
+9. Test the update item by id and body in backend api as shown below
+
+![backend_update_item by id](https://github.com/user-attachments/assets/a8ff818b-634f-49f6-9703-595e5de0e679)
+
+10. Test delete item by id in backend api as below
+
+![backend_deleteitembyid](https://github.com/user-attachments/assets/a9a9c664-817c-42b4-bb22-6391ac45edb0)
+
+11. Test Search funtionality for all four field except id in backend api through swagger as shown below
+
+![backend_queryby_anyfieldexceptid](https://github.com/user-attachments/assets/3fb0cda8-11ee-4a23-9cbc-a607a1be848a)
+
+    
+
 
