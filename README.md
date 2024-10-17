@@ -19,4 +19,11 @@ run http or by ctrl+f5 see below vedio then go to swagger url:- http://localhost
 
 ![front3](https://github.com/user-attachments/assets/001828fa-87d5-433f-accb-d59d247abce4)
 
+6. Now test getdo list funtionality in backend api with the help of swagger as shown in below vedio
+
+![backend_GetList](https://github.com/user-attachments/assets/802d727f-bd3d-458b-a208-f48ac42b6f02)
+
+7. Test the backend post api for creating the to do list in swagger as below vedio
+
+![backend_postapi](https://github.com/user-attachments/assets/39d8657c-4c29-46ab-99f8-a7fd0d52bbbf)
 
