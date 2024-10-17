@@ -43,6 +43,14 @@ run http or by ctrl+f5 see below vedio then go to swagger url:- http://localhost
 
 ![backend_queryby_anyfieldexceptid](https://github.com/user-attachments/assets/3fb0cda8-11ee-4a23-9cbc-a607a1be848a)
 
+12. Erro handling is also implementing in backend as well as front end which can be tested as below
+    
+![Error_Handling](https://github.com/user-attachments/assets/5171a4d0-f48a-465c-a790-19c606513bba)
+
+![postapi_error_handling](https://github.com/user-attachments/assets/ae709a30-7ce9-4c2f-9357-6272c4971351)
+
+![updatedelete_error](https://github.com/user-attachments/assets/d4fc33ef-eb09-4c2c-af90-dbf99787759a)
+
     
 
 
