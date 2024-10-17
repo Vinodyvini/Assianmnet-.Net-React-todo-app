@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\todo-app\\src",
+    "\\todo-app\\src\\Components",
+    "\\todo-app\\src\\services",
+    "\\ToDoAppAPI",
+    "\\ToDoAppAPI\\Controllers",
+    "\\ToDoAppAPI\\Data",
+    "\\ToDoAppAPI\\Middlewares",
+    "\\ToDoAppAPI\\Models",
+    "\\ToDoAppAPI\\Properties"
+  ],
+  "SelectedNode": "\\ToDoAppAPI.sln",
+  "PreviewInSolutionExplorer": false
+}
